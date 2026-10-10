@@ -1,0 +1,6 @@
+{
+  "name": "PRENS IA",
+  "description": "Plataforma de inteligencia artificial avanzada PRENS IA, creada por Zynapse. Diseñada para responder preguntas, ayudar a las personas y convertir ideas en realidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
